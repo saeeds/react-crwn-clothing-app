@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "75b21ee50b86c1103f3fb1e12bf61ae3",
+    "revision": "d31d236f87f5d830697dd0f36a2d56f5",
     "url": "/react-crwn-clothing-app/index.html"
   },
   {
