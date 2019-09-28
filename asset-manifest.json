@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-crwn-clothing-app/static/css/main.3285a1e6.chunk.css",
-    "main.js": "/react-crwn-clothing-app/static/js/main.7b3c0e81.chunk.js",
-    "main.js.map": "/react-crwn-clothing-app/static/js/main.7b3c0e81.chunk.js.map",
+    "main.css": "/react-crwn-clothing-app/static/css/main.e4729114.chunk.css",
+    "main.js": "/react-crwn-clothing-app/static/js/main.272afad2.chunk.js",
+    "main.js.map": "/react-crwn-clothing-app/static/js/main.272afad2.chunk.js.map",
     "runtime-main.js": "/react-crwn-clothing-app/static/js/runtime-main.f059118b.js",
     "runtime-main.js.map": "/react-crwn-clothing-app/static/js/runtime-main.f059118b.js.map",
-    "static/js/2.3a5fc552.chunk.js": "/react-crwn-clothing-app/static/js/2.3a5fc552.chunk.js",
-    "static/js/2.3a5fc552.chunk.js.map": "/react-crwn-clothing-app/static/js/2.3a5fc552.chunk.js.map",
+    "static/js/2.d5bcdee4.chunk.js": "/react-crwn-clothing-app/static/js/2.d5bcdee4.chunk.js",
+    "static/js/2.d5bcdee4.chunk.js.map": "/react-crwn-clothing-app/static/js/2.d5bcdee4.chunk.js.map",
     "index.html": "/react-crwn-clothing-app/index.html",
-    "precache-manifest.c05212944a6a94715c36859338826064.js": "/react-crwn-clothing-app/precache-manifest.c05212944a6a94715c36859338826064.js",
+    "precache-manifest.42b9379f877ad55f328ccdb3e79d024c.js": "/react-crwn-clothing-app/precache-manifest.42b9379f877ad55f328ccdb3e79d024c.js",
     "service-worker.js": "/react-crwn-clothing-app/service-worker.js",
-    "static/css/main.3285a1e6.chunk.css.map": "/react-crwn-clothing-app/static/css/main.3285a1e6.chunk.css.map",
+    "static/css/main.e4729114.chunk.css.map": "/react-crwn-clothing-app/static/css/main.e4729114.chunk.css.map",
     "static/media/crown.ed28accb.svg": "/react-crwn-clothing-app/static/media/crown.ed28accb.svg"
   }
 }
