@@ -4,6 +4,7 @@
   "private": true,
   "homepage": " https://saeeds.github.io/react-crwn-clothing-app",
   "dependencies": {
+    "firebase": "^7.0.0",
     "gh-pages": "^2.1.1",
     "node-sass": "^4.12.0",
     "react": "^16.10.0",
