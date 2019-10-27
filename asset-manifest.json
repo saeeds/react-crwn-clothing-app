@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/react-crwn-clothing-app/static/css/main.e4729114.chunk.css",
-    "main.js": "/react-crwn-clothing-app/static/js/main.63f23507.chunk.js",
-    "main.js.map": "/react-crwn-clothing-app/static/js/main.63f23507.chunk.js.map",
+    "main.css": "/react-crwn-clothing-app/static/css/main.5b0d82f4.chunk.css",
+    "main.js": "/react-crwn-clothing-app/static/js/main.3c614fe0.chunk.js",
+    "main.js.map": "/react-crwn-clothing-app/static/js/main.3c614fe0.chunk.js.map",
     "runtime-main.js": "/react-crwn-clothing-app/static/js/runtime-main.f059118b.js",
     "runtime-main.js.map": "/react-crwn-clothing-app/static/js/runtime-main.f059118b.js.map",
-    "static/js/2.74e3b6ea.chunk.js": "/react-crwn-clothing-app/static/js/2.74e3b6ea.chunk.js",
-    "static/js/2.74e3b6ea.chunk.js.map": "/react-crwn-clothing-app/static/js/2.74e3b6ea.chunk.js.map",
+    "static/js/2.8bbd2a92.chunk.js": "/react-crwn-clothing-app/static/js/2.8bbd2a92.chunk.js",
+    "static/js/2.8bbd2a92.chunk.js.map": "/react-crwn-clothing-app/static/js/2.8bbd2a92.chunk.js.map",
     "index.html": "/react-crwn-clothing-app/index.html",
-    "precache-manifest.93d8b6124caefabb39986ba536436df2.js": "/react-crwn-clothing-app/precache-manifest.93d8b6124caefabb39986ba536436df2.js",
+    "precache-manifest.750585ba0576eb72999a0603063bb3d3.js": "/react-crwn-clothing-app/precache-manifest.750585ba0576eb72999a0603063bb3d3.js",
     "service-worker.js": "/react-crwn-clothing-app/service-worker.js",
-    "static/css/main.e4729114.chunk.css.map": "/react-crwn-clothing-app/static/css/main.e4729114.chunk.css.map",
-    "static/media/crown.ed28accb.svg": "/react-crwn-clothing-app/static/media/crown.ed28accb.svg"
+    "static/css/main.5b0d82f4.chunk.css.map": "/react-crwn-clothing-app/static/css/main.5b0d82f4.chunk.css.map",
+    "static/media/crown.ed28accb.svg": "/react-crwn-clothing-app/static/media/crown.ed28accb.svg",
+    "static/media/shopping-bag.30f07071.svg": "/react-crwn-clothing-app/static/media/shopping-bag.30f07071.svg"
   }
 }
