@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fa2981d745b4f8b579478f489d8ca84a",
+    "revision": "aa5ccd1fa0e1406a7f08c93577ec6ca8",
     "url": "/react-crwn-clothing-app/index.html"
   },
   {
-    "revision": "acc3577b157f668bbb13",
-    "url": "/react-crwn-clothing-app/static/css/main.d2a35aeb.chunk.css"
+    "revision": "a3babe26520d4a12b952",
+    "url": "/react-crwn-clothing-app/static/css/main.af645578.chunk.css"
   },
   {
-    "revision": "7aa5a8ef418d8358a3d0",
-    "url": "/react-crwn-clothing-app/static/js/2.d4153359.chunk.js"
+    "revision": "8d7192432ca9cef89e32",
+    "url": "/react-crwn-clothing-app/static/js/2.8f0c989b.chunk.js"
   },
   {
-    "revision": "acc3577b157f668bbb13",
-    "url": "/react-crwn-clothing-app/static/js/main.45062f78.chunk.js"
+    "revision": "a3babe26520d4a12b952",
+    "url": "/react-crwn-clothing-app/static/js/main.b15fe7b7.chunk.js"
   },
   {
     "revision": "edcf5304912c891bdd6c",
